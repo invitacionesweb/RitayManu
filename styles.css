@@ -478,26 +478,29 @@ footer a:hover {
 
 span#enlace {
     color: var(--color-secundario);
-    font-size: 1.3em;
-    padding: 8px 24px;
+    font-size: 1em;
+    padding: 8px ;
     text-align: center;
     background-color: var(--color-principal);
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     border: 1px solid var(--color-secundario);
+    margin-top: 10px;
+
 }
 
 button#copiador {
     background-color: var(--color-principal);
     color: white;
     border: none;
-    padding: 9px 8px 10px 9px;    
-    font-size: 1.2em;
+    padding: 8px;    
+    font-size: 1em;
     display: inline-block;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     cursor: pointer;
     border: 1px solid var(--color-secundario);
+    margin-top: 10px;
 }
 
 .protocolo-covid {
@@ -543,10 +546,12 @@ button#copiador:focus {
     }
     .love-story-text { 
         width: 100%;
+        border-bottom: 1px solid var(--color-secundario);
+
     }
 
     .love-story-img { 
-        width: 90%; 
+        height: 0%; 
     }
     .locacion {
         flex-direction: column-reverse;
