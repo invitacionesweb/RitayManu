@@ -147,7 +147,7 @@ header{
     margin: 30px;
     border-radius: 40px;
     height: 480px;
-    background-image: url(ig/STORY.jpg);
+    background-image: url(ig/story.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -296,7 +296,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G1.jpg);
+    background-image: url(ig/G1.JPG);
     
 }
 .galeria-2 {
@@ -304,7 +304,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G2.jpg);
+    background-image: url(ig/G2.JPG);
     
 }
 .galeria-3 {
@@ -320,7 +320,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G4.jpg);
+    background-image: url(ig/G4.JPG);
     
 }
 .galeria-5 {
@@ -336,7 +336,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G6.jpg);
+    background-image: url(ig/G6.JPG
     
 }
 .galeria-7 {
@@ -344,7 +344,7 @@ header{
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G7.jpg);
+    background-image: url(ig/G7.JPG);
     
 }
 .galeria-8 {
@@ -352,7 +352,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(ig/G8.jpg);
+    background-image: url(ig/G8.JPG);
     
 }
 
@@ -370,7 +370,7 @@ header{
 }
 /* // FOTO 8 // */
 .confirma {
-    background-image: url(ig/COFIRM.jpg);
+    background-image: url(ig/cofirm.JPG);
     color: var(--color-principal);
     display: grid;
     place-items: center;
